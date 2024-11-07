@@ -1,4 +1,3 @@
-
 # Bloxd Forge
 
 <p align="center">
@@ -53,7 +52,6 @@
 
 3. **Run the `.exe` file, allowing internet access by Python**
 
-
 ### Usage
 - **Launch the App**: Start the application and explore the various features.
 - **Install Texture Packs**: Navigate to the Texture Pack Installer and select your desired packs.
@@ -67,7 +65,7 @@
 
 ## Contributing
 
-We are currently not accepting user generated content. Please request a feature in our [discord server](https://discord.gg/bwGRAC4WgE), and we'll consider adding it to Bloxd Forge.
+We are currently not accepting user-generated content. Please request a feature in our [Discord server](https://discord.gg/bwGRAC4WgE), and we'll consider adding it to Bloxd Forge.
 
 ---
 
