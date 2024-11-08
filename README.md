@@ -1,7 +1,7 @@
 # Bloxd Forge
 
 <p align="center">
-  <img src="https://i.imgur.com/9bTmF3K.png" alt="Bloxd Forge Logo" width="200">
+  <img src="https://i.imgur.com/SsES9QT.png" alt="Bloxd Forge Logo" width="200">
 </p>
 
 <p align="center">
