@@ -1,2 +1,27 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.rar binary
+*.7z binary
+*.exe binary
+*.dll binary
+*.py text
+*.html text
+*.css text
+*.js text
+*.json text
+*.txt text
+*.md text
+*.py text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+* -text
+*.exe filter=lfs diff=lfs merge=lfs -text
