@@ -1,2 +1,2 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
-Bloxd[[:space:]]Forge/bloxdForge_Beta.exe filter=lfs diff=lfs merge=lfs -text
+Bloxd[[:space:]]Forge[[:space:]]Beta filter=lfs diff=lfs merge=lfs -text
