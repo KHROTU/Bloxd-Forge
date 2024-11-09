@@ -73,7 +73,11 @@
 
 ## Contributing
 
-We are currently not accepting user-generated content. Please request a feature in our [Discord server](https://discord.gg/bwGRAC4WgE), and we'll consider adding it to Bloxd Forge.
+At this time, we are not accepting user-generated content for inclusion in official releases. However, we are actively working on enabling the integration of user-created mods (in HTML format) within the application. This feature will allow users to run their own mods directly within Bloxd Forge, enhancing the overall experience.
+
+If you have a feature request or suggestion, please submit it through our [Discord server](https://discord.gg/bwGRAC4WgE). Our team will carefully review and consider each request for future updates.
+
+Thank you for your understanding and continued support!
 
 ---
 
@@ -92,7 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 ## Acknowledgements
 
 - Thanks to the Bloxd community for their continuous support and feedback.
-- Special thanks to all contributors who have helped make Bloxd Forge better.
+- Special thanks to my best friend & partner A_I_X for always having my back.
 
 ---
 
