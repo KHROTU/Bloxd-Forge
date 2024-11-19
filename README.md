@@ -93,10 +93,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ---
 
-## Acknowledgements
+## Credits
 
-- Thanks to the Bloxd community for their continuous support and feedback.
-- Special thanks to my best friend & partner A_I_X for always having my back.
+- Thanks to A_I_X for making the base UI.
+- Thanks to KHROTU(me) for enhancing the UI and making all the backend stuff.
+- Special thanks to ☼_𝐓𝐚𝐜𝐨𝐂𝐚𝐭_™ ☼ for being the best marketing guy.
 
 ---
 
