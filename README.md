@@ -37,6 +37,21 @@
 - **Update Profile**: Manage your profile information, including username and email.
 - **Toggle Theme**: Switch between dark and light themes.
 
+### 🛒 Auction System
+
+- **Create Auctions**: Easily create auctions for items you want to sell.
+- **Browse Auctions**: Explore and participate in active auctions.
+
+### 💬 In-App Chat
+
+- **Real-Time Chat**: Engage in real-time chat with other users.
+- **Multiple Models**: Choose from a variety of AI models for chat responses.
+
+### 📚 Wiki Fetch
+
+- **Search and Browse**: Search and browse through a collection of wiki articles.
+- **Detailed View**: View detailed information on selected articles.
+
 ### 🌟 And So Much More
 
 - **Community Tab**: Check out community-suggested features and stay updated with the latest additions.
@@ -68,6 +83,9 @@
 - **Premium Features**: Subscribe to unlock advanced features.
 - **Profile Management**: Update your profile information and toggle themes.
 - **Help & Support**: Access the FAQ page for help and support.
+- **Auction System**: Create and browse auctions for items.
+- **In-App Chat**: Engage in real-time chat with other users.
+- **Wiki Fetch**: Search and browse through wiki articles.
 
 ---
 
