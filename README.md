@@ -13,28 +13,34 @@
 ## Features
 
 ### 🎨 **Texture Pack Workshop**
+
 - **Browse and Download**: Explore a wide range of texture packs available for download.
 - **Search Functionality**: Easily search for specific texture packs using the search bar.
 - **Detailed View**: View detailed descriptions and download texture packs with a single click.
 
 ### 🖌️ **Texture Pack Editor**
+
 - **Custom Texture Creation**: Create and edit your own texture packs with a built-in editor.
 - **Tools**: Use tools like pencil, eraser, darken, lighten, and eyedropper to design textures.
 - **Save and Export**: Save your custom textures and export them for use in Bloxd.io.
 
 ### 📚 **Wiki Fetch**
+
 - **Search and Browse**: Search and browse through a collection of wiki articles related to Bloxd.io.
 - **Detailed View**: View detailed information on selected articles with a clean and user-friendly interface.
 
 ### 🔑 **Key Management**
+
 - **Unlock Features**: Purchase keys to unlock additional features like uploading more texture packs or accessing premium tools.
 - **Easy Access**: Manage your keys and access premium features directly from the app.
 
 ### 💬 **In-App Chat (Electron.js Only)**
+
 - **Real-Time Chat**: Engage in real-time chat with various AI chat models.
 - **Multiple Models**: Choose from different AI models for chat responses, including Forge Chat and Forge Chat Plus.
 
 ### 🛠️ **Help & Support (Electron.js Only)**
+
 - **FAQs**: Access a comprehensive list of frequently asked questions and answers.
 - **Support**: Get help with common issues and learn more about the app's features.
 
