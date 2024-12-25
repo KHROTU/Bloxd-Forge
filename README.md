@@ -12,51 +12,31 @@
 
 ## Features
 
-### 🎨 Texture Pack Installer
+### 🎨 **Texture Pack Workshop**
+- **Browse and Download**: Explore a wide range of texture packs available for download.
+- **Search Functionality**: Easily search for specific texture packs using the search bar.
+- **Detailed View**: View detailed descriptions and download texture packs with a single click.
 
-- **One-Click Installation**: Easily install your favorite texture packs with just one click!
-- **Browse and Discover**: Explore a wide range of texture packs curated by the community.
+### 🖌️ **Texture Pack Editor**
+- **Custom Texture Creation**: Create and edit your own texture packs with a built-in editor.
+- **Tools**: Use tools like pencil, eraser, darken, lighten, and eyedropper to design textures.
+- **Save and Export**: Save your custom textures and export them for use in Bloxd.io.
 
-### 🌐 In-App Browser
+### 📚 **Wiki Fetch**
+- **Search and Browse**: Search and browse through a collection of wiki articles related to Bloxd.io.
+- **Detailed View**: View detailed information on selected articles with a clean and user-friendly interface.
 
-- **High FPS Experience**: Enjoy a seamless browsing experience with high frame rates.
-- **Ad-Blocker**: Browse without interruptions using the built-in ad-blocker.
+### 🔑 **Key Management**
+- **Unlock Features**: Purchase keys to unlock additional features like uploading more texture packs or accessing premium tools.
+- **Easy Access**: Manage your keys and access premium features directly from the app.
 
-### 📦 Create New Modpacks
+### 💬 **In-App Chat (Electron.js Only)**
+- **Real-Time Chat**: Engage in real-time chat with various AI chat models.
+- **Multiple Models**: Choose from different AI models for chat responses, including Forge Chat and Forge Chat Plus.
 
-- **Create Modpacks**: Easily create new modpacks by entering details such as name and description.
-- **Browse Texture Packs**: Explore and download texture packs from the GitHub repository.
-
-### 💎 Premium Features
-
-- **Advanced Modpack Support**: Enjoy advanced modpack support and early access to updates.
-- **Subscribe Now**: Subscribe to unlock premium features.
-
-### 👤 Profile Management
-
-- **Update Profile**: Manage your profile information, including username and email.
-- **Toggle Theme**: Switch between dark and light themes.
-
-### 🛒 Auction System
-
-- **Create Auctions**: Easily create auctions for items you want to sell.
-- **Browse Auctions**: Explore and participate in active auctions.
-
-### 💬 In-App Chat
-
-- **Real-Time Chat**: Engage in real-time chat with other users.
-- **Multiple Models**: Choose from a variety of AI models for chat responses.
-
-### 📚 Wiki Fetch
-
-- **Search and Browse**: Search and browse through a collection of wiki articles.
-- **Detailed View**: View detailed information on selected articles.
-
-### 🌟 And So Much More
-
-- **Community Tab**: Check out community-suggested features and stay updated with the latest additions.
-- **Modpacks**: Create and manage your modpacks with ease.
-- **Premium Features**: Unlock advanced features with a premium subscription.
+### 🛠️ **Help & Support (Electron.js Only)**
+- **FAQs**: Access a comprehensive list of frequently asked questions and answers.
+- **Support**: Get help with common issues and learn more about the app's features.
 
 ---
 
@@ -64,28 +44,17 @@
 
 ### Installation
 
-1. **Install Dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Download the `.exe` file**
-
-3. **Run the `.exe` file, allowing internet access by Python**
+- **Requirements**: Ability to read.
 
 ### Usage
 
 - **Launch the App**: Start the application and explore the various features.
-- **Install Texture Packs**: Navigate to the Texture Pack Installer and select your desired packs.
-- **In-App Browser**: Access the built-in browser for a seamless experience.
-- **Create Modpacks**: Create new modpacks and browse texture packs.
-- **Premium Features**: Subscribe to unlock advanced features.
-- **Profile Management**: Update your profile information and toggle themes.
-- **Help & Support**: Access the FAQ page for help and support.
-- **Auction System**: Create and browse auctions for items.
-- **In-App Chat**: Engage in real-time chat with other users.
-- **Wiki Fetch**: Search and browse through wiki articles.
+- **Texture Pack Workshop**: Navigate to the Texture Pack Workshop to browse and download texture packs.
+- **Texture Pack Editor**: Create and edit your own texture packs using the built-in editor.
+- **Wiki Fetch**: Search and browse through wiki articles for detailed information.
+- **Key Management**: Purchase and manage keys to unlock premium features.
+- **In-App Chat (Electron.js Only)**: Engage in real-time chat with other users.
+- **Help & Support (Electron.js Only)**: Access the FAQ page for help and support.
 
 ---
 
@@ -113,9 +82,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ## Credits
 
-- Thanks to A_I_X for making the base UI.
-- Thanks to KHROTU(me) for enhancing the UI and making all the backend stuff.
-- Special thanks to ☼_𝐓𝐚𝐜𝐨𝐂𝐚𝐭_™ ☼ for being the best marketing guy.
+- **A_I_X**: Founder of Bloxd Forge and developer of the web version.
+- **KHROTU**: Developer of the Electron.js version and minor contributor to the web version.
+- **Nexo**: Moderator of the Discord server, contributing to community engagement.
+- **Ibalh0**: Assisted with UI elements and contributed to the project.
+- **☼_𝐓𝐚𝐜𝐨𝐂𝐚𝐭_™ ☼**: Marketing and community outreach manager.
 
 ---
 
