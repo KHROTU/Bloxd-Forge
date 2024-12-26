@@ -102,4 +102,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 Have fun, and enjoy!
 
-## Bloxd Forge, your one-stop solution to Bloxd gaming
+## Bloxd Forge, your one-stop solution to Bloxd gaming.
